@@ -128,7 +128,7 @@ gitment:
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: Shudeng
-    repo: pages
+    repo: shudeng.github.io
     clientID: b0291c7e0dc8dd72f8dd
     clientSecret: 0343f8035d668c2279afa77884133601a390bf4e
 # 在使用其它评论组件时可点击显示 Disqus
