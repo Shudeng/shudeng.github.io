@@ -1,7 +1,7 @@
 # ---------------- #
 #   Main Configs   #
 # ---------------- #
-baseurl:
+baseurl: https://raw.githubusercontent.com/Shudeng/shudeng.github.io/master/
 url: https://shudeng.github.io/
 date_format: "ordinal"
 title: Shudeng
